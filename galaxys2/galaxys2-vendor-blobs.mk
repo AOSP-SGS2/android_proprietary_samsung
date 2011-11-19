@@ -78,7 +78,7 @@ PRODUCT_COPY_FILES += \
 
 # GPS
 PRODUCT_COPY_FILES += \
-    vendor/samsung/galaxys2/proprietary/gps/lib/hw/gps.GT-I9100.so:system/lib/hw/gps.GT-I9100.so
+    vendor/samsung/galaxys2/proprietary/gps/lib/hw/gps.smdkv310.so:system/lib/hw/gps.smdkv310.so
 
 # WIFI
 PRODUCT_COPY_FILES += \
